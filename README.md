@@ -22,10 +22,10 @@ note: before I had a lot of problems with   https://www.msys2.org/  who provide 
 
 prerequisites
 
-*you need have install the:
-*python3 ("my version is python 3, I didnt try with version 2")
-*python install pip -----> this is the python package manager
-*python3 -m pip install invoke -----> we need this tool to invoke  enviroment vcvars32.bat
+you need have install the:
+-python3 ("my version is python 3, I didnt try with version 2")
+-python install pip -----> this is the python package manager
+-python3 -m pip install invoke -----> we need this tool to invoke  enviroment vcvars32.bat
 
 
 
