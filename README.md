@@ -12,7 +12,7 @@ I take advantage of the Visual Studio C/C++ IDE and Compiler for Windows.
 ![image](https://user-images.githubusercontent.com/48602725/124915834-d9687980-dfa6-11eb-92e4-8c9eecee2b7d.png)
 
 
-if you want only you can install only the MSBuild on the command line - C++. without the necessity to install the Visual Studio IDE complete.
+if you want only you can install only the MSBuild on the command line - C++. without the necessity to install the Visual Studio IDE complete https://docs.microsoft.com/en-us/cpp/build/building-on-the-command-line?view=msvc-160.
 
 But in my case, because I have some problems I decided to isolate the problem first started to compile one "Hello World" in the IDE.
 
@@ -20,7 +20,16 @@ note: before I had a lot of problems with   https://www.msys2.org/  who provide 
 
 
 
-Well, the first thing that I recommended you is to install the next program, which will help you can see if your function is accessible, it is necessary when you want to call the function of your dll.
+prerequisites
+
+you need have install the:
+python3 ("my version is python 3, I didnt try with version 2")
+python install pip -----> this is the python package manager
+python3 -m pip install invoke -----> we need this tool to invoke  enviroment vcvars32.bat
+
+
+
+Well, the one of important thing that I recommended you is to install the next program, which will help you can see if your function is accessible, it is necessary when you want to call the function of your dll.
 
 https://www.nirsoft.net/utils/dll_export_viewer.html
 
