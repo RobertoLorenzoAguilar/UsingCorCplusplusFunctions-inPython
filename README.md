@@ -16,7 +16,7 @@ if you want only you can install only the MSBuild on the command line - C++. wit
 
 But in my case, because I have some problems I decided to isolate the problem first started to compile one "Hello World" in the IDE.
 
-note: note: before I had a lot of problems with   https://www.msys2.org/  who provide a collection of tools and libraries of Linux to run in windows, but really  I don't  tried with  Window Subsystem Linux sounds good well, possible I will make a test in the future.
+note: before I had a lot of problems with   https://www.msys2.org/  who provide a collection of tools and libraries of Linux to run in windows, but really  I don't  tried with  Window Subsystem Linux sounds good well, possible I will make a test in the future.
 
 
 
