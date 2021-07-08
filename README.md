@@ -25,12 +25,9 @@ prerequisites
  you need have install the:
 
 ~~~
-Markup : ```javascript
-             ```
- -python3 ("my version is python 3, I didnt try with version 2")
+          -python3 ("my version is python 3, I didnt try with version 2")
           -python install pip -----> this is the python package manager
           -python3 -m pip install invoke -----> we need this tool to invoke  enviroment vcvars32.bat
-
 ~~~
 
 
