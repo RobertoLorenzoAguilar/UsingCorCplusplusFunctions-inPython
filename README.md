@@ -30,6 +30,16 @@ prerequisites
           -python3 -m pip install invoke -----> we need this tool to invoke  enviroment vcvars32.bat
 ~~~
 
+Creating a C++ project in nucleo board to keep communication serial USART with a STM Nucleo-F446RE Board 
+
+
+
+
+![image](https://user-images.githubusercontent.com/48602725/125197963-b511d480-e214-11eb-8766-f8fe53f0db30.png)
+
+references----> http://www.coffeebrain.org/wiki/index.php?title=USART_B%C3%A1sico
+
+
 
 
 Well, the one of important thing that I recommended you is to install the next program, which will help you can see if your function is accessible, it is necessary when you want to call the function of your dll.
