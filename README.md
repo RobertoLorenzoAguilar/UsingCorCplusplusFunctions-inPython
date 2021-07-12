@@ -60,9 +60,8 @@ remember that you shall set the virtual COM port, and you can find in the device
 ![image](https://user-images.githubusercontent.com/48602725/125220616-e2459d80-e27b-11eb-84f3-e95c544bb5ad.png)
 
 
+![image](https://user-images.githubusercontent.com/48602725/125220979-5ed87c00-e27c-11eb-82c2-7651508c0682.png)
 
-
-![image](https://user-images.githubusercontent.com/48602725/125220669-fbe6e500-e27b-11eb-8e64-3add06537102.png)
 
 
 
