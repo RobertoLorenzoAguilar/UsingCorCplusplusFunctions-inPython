@@ -43,6 +43,22 @@ remember dowload the usb driver in the oficial stm32 page in my model case is th
 also, you will need have installed the STM32CubeIDE through which you will program your app https://www.st.com/en/development-tools/stm32cubeide.html
 
 
+once time that you have finished satisfactory the STM32Cube IDE, you should select the target
+
+![image](https://user-images.githubusercontent.com/48602725/125303149-7269fe00-e2e1-11eb-95ee-162089563139.png)
+
+
+
+set a name to the project and select in the checkbox the type to of final language in this example case I chose CPP.
+
+![image](https://user-images.githubusercontent.com/48602725/125303383-9d545200-e2e1-11eb-880c-303b15e587f1.png)
+
+
+
+
+
+
+
 
 
 
