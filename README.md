@@ -30,6 +30,12 @@ prerequisites
           -python3 -m pip install invoke -----> we need this tool to invoke  enviroment vcvars32.bat
 ~~~
 
+please dont forget set the system enviroments variables.
+
+![image](https://user-images.githubusercontent.com/48602725/125308991-3b4a1b80-e2e6-11eb-9bca-abb7d6d0da6e.png)
+
+
+
 Creating a C++ project in nucleo board to keep communication serial USART with a STM Nucleo-F446RE Board 
 
 
