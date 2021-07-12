@@ -48,7 +48,24 @@ I installed the Ubuntu 20.04 LTS release on Windows, in this new version you don
  sudo apt  install minicom 
 ~~~
 
-to run a minicom you need  type the follow command  sudo minicom -s.
+to run a minicom interface you need to type the following command 
+~~~
+sudo minicom -s.
+
+~~~
+![image](https://user-images.githubusercontent.com/48602725/125220799-1b7e0d80-e27c-11eb-8f22-99a4a30057ca.png)
+
+
+remember that you shall set the virtual COM port, and you can find in the device manager.
+![image](https://user-images.githubusercontent.com/48602725/125220616-e2459d80-e27b-11eb-84f3-e95c544bb5ad.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/48602725/125220669-fbe6e500-e27b-11eb-8e64-3add06537102.png)
+
+
+
 
 
 
