@@ -79,8 +79,9 @@ Save the changes.
 ![image](https://user-images.githubusercontent.com/48602725/125221977-f8545d80-e27d-11eb-8d01-d7f02c7818aa.png)
 
 
+And then if all was good you will see the minicom interface
 
-
+![image](https://user-images.githubusercontent.com/48602725/125222077-2f2a7380-e27e-11eb-8b87-06bd105fe147.png)
 
 
 
