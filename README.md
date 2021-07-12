@@ -125,6 +125,14 @@ sudo minicom
 
 ~~~
 
+As of now you can interact with the board.
+
+
+The next step will be to try to create a DLL to embedded in other kind of project in a Graphical user interface.
+
+
+
+
 
 Well, the one of important thing that I recommended you is to install the next program, which will help you can see if your function is accessible, it is necessary when you want to call the function of your dll.
 
