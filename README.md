@@ -33,6 +33,17 @@ prerequisites
 Creating a C++ project in nucleo board to keep communication serial USART with a STM Nucleo-F446RE Board 
 
 
+![f6d5d37f-fd69-4b06-8286-82d5155191a6](https://user-images.githubusercontent.com/48602725/125301926-52860a80-e2e0-11eb-9598-a278fa7f84e7.jpg)
+
+
+
+remember dowload the usb driver in the oficial stm32 page in my model case is the https://www.st.com/content/st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-utilities/stsw-link009.html
+
+
+also, you will need have installed the STM32CubeIDE through which you will program your app https://www.st.com/en/development-tools/stm32cubeide.html
+
+
+
 
 
 ![image](https://user-images.githubusercontent.com/48602725/125197963-b511d480-e214-11eb-8766-f8fe53f0db30.png)
