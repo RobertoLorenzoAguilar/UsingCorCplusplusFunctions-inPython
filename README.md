@@ -83,7 +83,11 @@ And then if all was good you will see the minicom interface
 
 ![image](https://user-images.githubusercontent.com/48602725/125222077-2f2a7380-e27e-11eb-8b87-06bd105fe147.png)
 
+If you can try again to the minicom interface you only need put: 
+~~~
+sudo minicom
 
+~~~
 
 
 Well, the one of important thing that I recommended you is to install the next program, which will help you can see if your function is accessible, it is necessary when you want to call the function of your dll.
