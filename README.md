@@ -66,6 +66,17 @@ remember that you shall set the virtual COM port, and you can find in the device
 ![image](https://user-images.githubusercontent.com/48602725/125221031-7283e280-e27c-11eb-9232-26085c22d39f.png)
 
 
+you also need to set the main params, 115,200 baud rate, and the port COM5 in my case, note: if you will have problems interacting with the board, if you can't see whatever that you write change opcion F and G selecting Flow Control to no.
+
+~~~
+serial device :  /dev/ttyS5
+
+~~~
+
+![image](https://user-images.githubusercontent.com/48602725/125221270-d9090080-e27c-11eb-8410-b63eaf6d81ea.png)
+
+Save the changes.
+![image](https://user-images.githubusercontent.com/48602725/125221977-f8545d80-e27d-11eb-8d01-d7f02c7818aa.png)
 
 
 
