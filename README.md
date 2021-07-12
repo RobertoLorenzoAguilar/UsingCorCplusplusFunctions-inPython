@@ -40,6 +40,18 @@ Creating a C++ project in nucleo board to keep communication serial USART with a
 references----> http://www.coffeebrain.org/wiki/index.php?title=USART_B%C3%A1sico
 
 
+test the serial communication. although exist  PUTTY and TERATERM to establish and test connection serial with our board I prefer minicom,I reccomend that you have install a window subsystem linux, here you can find the steps to will install the app https://docs.microsoft.com/es-es/windows/wsl/install-win10  and after install the minicom 
+
+I installed the Ubuntu 20.04 LTS release on Windows, in this new version you don't need use the apt-get only the apt in the (Focal Fossa) version, obviously you can choose the Linux version os with you to feel comfortable "remember update and upgrade"
+~~~
+ sudo apt update && sudo apt upgrade -y
+ sudo apt  install minicom 
+~~~
+
+to run a minicom you need  type the follow command  sudo minicom -s.
+
+
+
 
 
 Well, the one of important thing that I recommended you is to install the next program, which will help you can see if your function is accessible, it is necessary when you want to call the function of your dll.
