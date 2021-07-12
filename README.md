@@ -85,6 +85,12 @@ references----> http://www.coffeebrain.org/wiki/index.php?title=USART_B%C3%A1sic
 test the serial communication. although exist  PUTTY and TERATERM to establish and test connection serial with our board I prefer minicom,I reccomend that you have install a window subsystem linux, here you can find the steps to will install the app https://docs.microsoft.com/es-es/windows/wsl/install-win10  and after install the minicom 
 
 I installed the Ubuntu 20.04 LTS release on Windows, in this new version you don't need use the apt-get only the apt in the (Focal Fossa) version, obviously you can choose the Linux version os with you to feel comfortable "remember update and upgrade"
+
+Note: you can find the source path of wsl in \\wsl$ 
+![image](https://user-images.githubusercontent.com/48602725/125330881-26788280-e2fc-11eb-91e7-a836ea43905b.png)
+
+
+
 ~~~
  sudo apt update && sudo apt upgrade -y
  sudo apt  install minicom 
