@@ -53,10 +53,14 @@ set a name to the project and select in the checkbox the type to of final langua
 
 ![image](https://user-images.githubusercontent.com/48602725/125303383-9d545200-e2e1-11eb-880c-303b15e587f1.png)
 
+as soon you created the project will appear a window with an .ioc file open in which you should enable the pins to carry up the serial communication.
+
+![image](https://user-images.githubusercontent.com/48602725/125304465-78acaa00-e2e2-11eb-9900-ab772a6a1bdb.png)
 
 
+remember rename in Core/Src/main.c to main.cpp such a:
 
-
+![image](https://user-images.githubusercontent.com/48602725/125304819-bdd0dc00-e2e2-11eb-88f8-bcc229d69201.png)
 
 
 
