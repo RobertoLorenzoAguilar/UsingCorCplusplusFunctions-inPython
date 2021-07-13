@@ -141,6 +141,16 @@ As of now you can interact with the board.
 
 
 The next step will be to try to create a DLL to embedded in other kind of project in a Graphical user interface.
+this is my main.cpp
+
+![image](https://user-images.githubusercontent.com/48602725/125449671-38cdf7e2-d870-48ba-861f-20b02bee64e4.png)
+
+
+this is my main.h  remember expouse the param -D _MSC_VER
+
+![image](https://user-images.githubusercontent.com/48602725/125449799-dc2414be-0b29-4044-b2b7-14cae4c3a4d0.png)
+
+
 
 
 
