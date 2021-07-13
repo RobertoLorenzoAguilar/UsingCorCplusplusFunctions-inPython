@@ -143,12 +143,12 @@ As of now you can interact with the board.
 The next step will be to try to create a DLL to embedded in other kind of project in a Graphical user interface.
 this is my main.cpp
 
-![image](https://user-images.githubusercontent.com/48602725/125449671-38cdf7e2-d870-48ba-861f-20b02bee64e4.png)
+![image](https://user-images.githubusercontent.com/48602725/125455366-a98149af-ac4c-4846-a022-84b1606dd7a1.png)
 
 
-this is my main.h  remember expouse the param -D _MSC_VER
+this is my main.h  remember expouse the param -D __Expouse_Functions__
 
-![image](https://user-images.githubusercontent.com/48602725/125449799-dc2414be-0b29-4044-b2b7-14cae4c3a4d0.png)
+![image](https://user-images.githubusercontent.com/48602725/125455387-babf19e7-d1ff-42f3-b24a-3171558fa8cf.png)
 
 If you have this problem, it's because you built the project in other architecture different from what you using in your python interpreter, please change in the tasks.py the line:
 ~~~
@@ -161,9 +161,15 @@ If you have this problem, it's because you built the project in other architectu
 
 here you can see in my method the way to create the .dll 
 
-![image](https://user-images.githubusercontent.com/48602725/125450009-c641d726-1f47-4b8b-85cc-78b4e5c896cd.png)
+![image](https://user-images.githubusercontent.com/48602725/125455468-485ffb53-823a-4361-a89e-7cabb34d4f7a.png)
 
 
+you should open the project folder and run in  cmd.
+~~~
+invoke clean
+invoke build-main
+~~~
+remember always clean
 
 
 Well, the one of important thing that I recommended you is to install the next program, which will help you can see if your function is accessible, it is necessary when you want to call the function of your dll.
