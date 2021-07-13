@@ -150,14 +150,6 @@ this is my main.h  remember expouse the param -D __Expouse_Functions__
 
 ![image](https://user-images.githubusercontent.com/48602725/125455387-babf19e7-d1ff-42f3-b24a-3171558fa8cf.png)
 
-If you have this problem, it's because you built the project in other architecture different from what you using in your python interpreter, please change in the tasks.py the line:
-~~~
- -path = f'"{path}vcvars32.bat" x86'  # Enter the VS venv 32 bits
- -path = f'"{path}vcvars32.bat" x64'  # Enter the VS venv 64 bits
-~~~
-
-![image](https://user-images.githubusercontent.com/48602725/125453551-2120a171-3933-4c98-8851-7a2f4978fa46.png)
-
 
 here you can see in my method the way to create the .dll 
 
@@ -170,6 +162,21 @@ invoke clean
 invoke build-main
 ~~~
 remember always clean
+
+Here I started to test the DLL in python, is simple string comparing.
+![image](https://user-images.githubusercontent.com/48602725/125456068-9c614777-2a3c-46ea-b625-7fa57a282012.png)
+
+
+
+
+If you have this problem, it's because you built the project in other architecture different from what you using in your python interpreter, please change in the tasks.py the line:
+~~~
+ -path = f'"{path}vcvars32.bat" x86'  # Enter the VS venv 32 bits
+ -path = f'"{path}vcvars32.bat" x64'  # Enter the VS venv 64 bits
+~~~
+
+![image](https://user-images.githubusercontent.com/48602725/125453551-2120a171-3933-4c98-8851-7a2f4978fa46.png)
+
 
 
 Well, the one of important thing that I recommended you is to install the next program, which will help you can see if your function is accessible, it is necessary when you want to call the function of your dll.
