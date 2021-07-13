@@ -184,7 +184,7 @@ Well, the one of important thing that I recommended you is to install the next p
 ![image](https://user-images.githubusercontent.com/48602725/125457717-5bb53afa-717f-4a67-ade2-ac8ee761d7be.png)
 
 
-![image](https://user-images.githubusercontent.com/48602725/124914144-dc626a80-dfa4-11eb-869c-7b3d4126dc9d.png)
+
 
 TODO: Pending by load.
 ~~~
