@@ -181,13 +181,16 @@ If you have this problem, it's because you built the project in other architectu
 
 Well, the one of important thing that I recommended you is to install the next program, which will help you can see if your function is accessible, it is necessary when you want to call the function of your dll.
 
-https://www.nirsoft.net/utils/dll_export_viewer.html
+![image](https://user-images.githubusercontent.com/48602725/125457717-5bb53afa-717f-4a67-ade2-ac8ee761d7be.png)
 
 
 ![image](https://user-images.githubusercontent.com/48602725/124914144-dc626a80-dfa4-11eb-869c-7b3d4126dc9d.png)
 
 TODO: Pending by load.
+~~~
 1.- the references.
 2.- STM32 code.cpp UART communication  "by the moment I couldn't compile the.project, I need to learn about of Cortex-M4  :S
 3.- I need Upload this code how to create a DLL
 4.- try to recrate the functionality using a python library in place of dll.
+5.- Create GUI with tkinter
+~~~
