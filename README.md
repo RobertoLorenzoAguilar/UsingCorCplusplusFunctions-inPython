@@ -164,7 +164,7 @@ invoke build-main
 remember always clean
 
 Here I started to test the DLL in python, is simple string comparing.
-![image](https://user-images.githubusercontent.com/48602725/125456068-9c614777-2a3c-46ea-b625-7fa57a282012.png)
+![image](https://user-images.githubusercontent.com/48602725/125456431-d873076a-8d2f-48ae-9856-560e4cd0359b.png)
 
 
 
@@ -185,3 +185,9 @@ https://www.nirsoft.net/utils/dll_export_viewer.html
 
 
 ![image](https://user-images.githubusercontent.com/48602725/124914144-dc626a80-dfa4-11eb-869c-7b3d4126dc9d.png)
+
+TODO: Pending by load.
+1.- the references.
+2.- STM32 code.cpp UART communication  "by the moment I couldn't compile the.project, I need to learn about of Cortex-M4  :S
+3.- I need Upload this code how to create a DLL
+4.- try to recrate the functionality using a python library in place of dll.
