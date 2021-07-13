@@ -69,7 +69,7 @@ remember rename in Core/Src/main.c to main.cpp such a:
 ![image](https://user-images.githubusercontent.com/48602725/125304819-bdd0dc00-e2e2-11eb-88f8-bcc229d69201.png)
 
 
-and then you can start to program, I could create  one program to calculate the square root.
+and then you can start to program, I could create  one program to calculate the square of number.
 
 ![image](https://user-images.githubusercontent.com/48602725/125307435-e659d580-e2e4-11eb-9af5-76943b0ea629.png)
 
