@@ -192,5 +192,5 @@ TODO: Pending by load.
 g++ -O3 -Wall -Werror -shared -std=c++11 -fPIC  main.cpp -I../Inc -I../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -D STM32F446xx  -I../../Drivers/CMSIS/Include  -D __GNUC__   I believe that I need to create a dll to work with the drivers, however, I hope that I hope someone benefits with the information about of how to establish communication serial with this kind of board, probably in the future I change this thread to other repository
 3.- I need Upload this code how to create a DLL
 4.- try to recrate the functionality using a python library in place of dll.
-5.- Create GUI with tkinter
+5.- Create GUI
 ~~~
