@@ -71,8 +71,7 @@ remember rename in Core/Src/main.c to main.cpp such a:
 
 and then you can start to program, I could create  one program to calculate the square of number.
 
-![image](https://user-images.githubusercontent.com/48602725/125307435-e659d580-e2e4-11eb-9af5-76943b0ea629.png)
-
+![image](https://user-images.githubusercontent.com/48602725/125461232-e3d63e61-ca31-4fdd-beb5-21dbe41104d7.png)
 
 
 
