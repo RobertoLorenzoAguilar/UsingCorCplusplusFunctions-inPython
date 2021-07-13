@@ -190,6 +190,7 @@ TODO: Pending by load.
 ~~~
 1.- the references.
 2.- STM32 code.cpp UART communication. By the moment, I couldn't compile the project, I need to learn about of Cortex-M4  :S, I wanted to incorporate the activities with process STM Board , to recreating A scenery a little more real,  I leave in stand by
+g++ -O3 -Wall -Werror -shared -std=c++11 -fPIC  main.cpp -I../Inc -I../../Drivers/STM32F4xx_HAL_Driver/Inc -I../../Drivers/CMSIS/Device/ST/STM32F4xx/Include -D STM32F446xx  -I../../Drivers/CMSIS/Include  -D __GNUC__   I believe that i need create a dll to work withe the drivers
 3.- I need Upload this code how to create a DLL
 4.- try to recrate the functionality using a python library in place of dll.
 5.- Create GUI with tkinter
