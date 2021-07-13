@@ -150,6 +150,15 @@ this is my main.h  remember expouse the param -D _MSC_VER
 
 ![image](https://user-images.githubusercontent.com/48602725/125449799-dc2414be-0b29-4044-b2b7-14cae4c3a4d0.png)
 
+If you have this problem, it's because you built the project in other architecture different from what you using in your python interpreter, please change in the tasks.py the line:
+~~~
+ -path = f'"{path}vcvars32.bat" x86'  # Enter the VS venv 32 bits
+ -path = f'"{path}vcvars32.bat" x64'  # Enter the VS venv 64 bits
+~~~
+
+![image](https://user-images.githubusercontent.com/48602725/125453551-2120a171-3933-4c98-8851-7a2f4978fa46.png)
+
+
 here you can see in my method the way to create the .dll 
 
 ![image](https://user-images.githubusercontent.com/48602725/125450009-c641d726-1f47-4b8b-85cc-78b4e5c896cd.png)
