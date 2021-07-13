@@ -150,8 +150,9 @@ this is my main.h  remember expouse the param -D _MSC_VER
 
 ![image](https://user-images.githubusercontent.com/48602725/125449799-dc2414be-0b29-4044-b2b7-14cae4c3a4d0.png)
 
+here you can see in my method the way to create the .dll 
 
-
+![image](https://user-images.githubusercontent.com/48602725/125450009-c641d726-1f47-4b8b-85cc-78b4e5c896cd.png)
 
 
 
